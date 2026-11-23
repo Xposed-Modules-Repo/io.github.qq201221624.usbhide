@@ -1,4 +1,4 @@
-# USBHide
+# 隐藏USB调试 / USBHide
 
 [简体中文](#简体中文)
 
